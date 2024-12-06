@@ -52,3 +52,7 @@
 [20:04:53] [Server thread/INFO]: [Khot: Set own game mode to Creative Mode]
 [20:07:08] [Server thread/INFO]: [Khot: Set own game mode to Survival Mode]
 [20:08:24] [Server thread/INFO]: [Khot: Set own game mode to Creative Mode]
+[20:14:20] [Server thread/INFO]: [Khot: Set own game mode to Survival Mode]
+[20:17:24] [Server thread/INFO]: [Khot: The difficulty has been set to Hard]
+[20:19:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-260, y=65, z=886} gg{x=-259, y=65, z=885}
+[20:20:53] [Server thread/INFO]: [Khot: Set own game mode to Creative Mode]
